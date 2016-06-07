@@ -9,6 +9,10 @@ body {
   border-color: white;
 }
 
+.row img{
+	width: 500px;
+}
+
 .jumbotron{
   color: white;
   background-color: orange;
@@ -17,6 +21,10 @@ body {
 -------------------------------------------------- */
 
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
+.carousel-inner{
+	color: orange;
+}
+
 .navbar-wrapper: {
   position: absolute;
   top: 0;
